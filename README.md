@@ -1,2 +1,2 @@
 # Cancer_TextMining
-What is the most accurate text mining classification tool to categorize three cancer types’ symptoms for the most accurate diagnosis?
+This is my first introduction to python and the first project I created with classifying three cancer types based on a variety of symptoms provided for each. 
